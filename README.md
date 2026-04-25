@@ -30,7 +30,7 @@ You'll need [Node.js](https://nodejs.org/) installed.
 **1. Clone the repo**
 ```bash
 git clone <repo-url>
-cd Wall_Of_Shame
+cd Wall_Of_Shame-Stun
 ```
 
 **2. Start the backend**
@@ -43,7 +43,7 @@ Server will start at `http://localhost:5000`
 
 **3. Start the frontend** (open a new terminal)
 ```bash
-cd Wall_Of_shame/client/wall_of_shame 
+cd Wall_Of_Shame-Stun/client/wall_of_shame 
 npm install
 npm run dev
 ```
